@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Cyber Security || Penetration Tester || Bug Hunter<br>
 
 ## 🌐 Socials:
@@ -11,6 +11,6 @@ Cyber Security || Penetration Tester || Bug Hunter<br>
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/alkaserGG/count.svg)
+![Profile Views](https://visitcount.itsvg.in/api?id=alkaserGG&icon=0&color=6)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
