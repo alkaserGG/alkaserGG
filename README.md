@@ -11,6 +11,6 @@ Cyber Security || Penetration Tester || Bug Hunter<br>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=alkaserGG&color=green)
+![Visitor Count](https://profile-counter.glitch.me/alkaserGG/count.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
