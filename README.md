@@ -10,7 +10,3 @@ Cyber Security || Penetration Tester || Bug Hunter<br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=alkaserGG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=alkaserGG&color=green&v=1)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
